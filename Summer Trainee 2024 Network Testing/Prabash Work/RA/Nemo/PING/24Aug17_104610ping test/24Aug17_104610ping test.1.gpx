@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Nemo Handy" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>24Aug17_104610.1.gpx</name>
+    <trkseg>
+      <trkpt lat="65.05658546" lon="25.46791537">
+        <ele>35.46</ele>
+        <time>T07:46:10.303Z</time>
+      </trkpt>
+      <trkpt lat="65.05658546" lon="25.46791536">
+        <ele>35.46</ele>
+        <time>T07:46:12.310Z</time>
+      </trkpt>
+      <trkpt lat="65.05658545" lon="25.46791538">
+        <ele>35.46</ele>
+        <time>T07:46:13.307Z</time>
+      </trkpt>
+      <trkpt lat="65.05658545" lon="25.46791536">
+        <ele>35.46</ele>
+        <time>T07:46:14.313Z</time>
+      </trkpt>
+      <trkpt lat="65.05658544" lon="25.46791539">
+        <ele>35.46</ele>
+        <time>T07:46:15.306Z</time>
+      </trkpt>
+      <trkpt lat="65.05658544" lon="25.46791542">
+        <ele>35.46</ele>
+        <time>T07:46:16.313Z</time>
+      </trkpt>
+      <trkpt lat="65.05658544" lon="25.46791548">
+        <ele>35.46</ele>
+        <time>T07:46:17.312Z</time>
+      </trkpt>
+      <trkpt lat="65.05658543" lon="25.46791554">
+        <ele>35.46</ele>
+        <time>T07:46:18.306Z</time>
+      </trkpt>
+      <trkpt lat="65.05658543" lon="25.4679156">
+        <ele>35.46</ele>
+        <time>T07:46:19.317Z</time>
+      </trkpt>
+      <trkpt lat="65.05658543" lon="25.46791562">
+        <ele>35.46</ele>
+        <time>T07:46:20.310Z</time>
+      </trkpt>
+      <trkpt lat="65.05658543" lon="25.46791567">
+        <ele>35.46</ele>
+        <time>T07:46:21.320Z</time>
+      </trkpt>
+      <trkpt lat="65.05658543" lon="25.46791571">
+        <ele>35.46</ele>
+        <time>T07:46:22.313Z</time>
+      </trkpt>
+      <trkpt lat="65.05658543" lon="25.46791575">
+        <ele>35.46</ele>
+        <time>T07:46:23.318Z</time>
+      </trkpt>
+      <trkpt lat="65.05658542" lon="25.46791577">
+        <ele>35.46</ele>
+        <time>T07:46:24.316Z</time>
+      </trkpt>
+      <trkpt lat="65.05658542" lon="25.46791578">
+        <ele>35.46</ele>
+        <time>T07:46:25.306Z</time>
+      </trkpt>
+      <trkpt lat="65.05658542" lon="25.46791579">
+        <ele>35.46</ele>
+        <time>T07:46:26.308Z</time>
+      </trkpt>
+      <trkpt lat="65.05658542" lon="25.4679158">
+        <ele>35.46</ele>
+        <time>T07:46:27.316Z</time>
+      </trkpt>
+      <trkpt lat="65.05658541" lon="25.46791582">
+        <ele>35.46</ele>
+        <time>T07:46:28.298Z</time>
+      </trkpt>
+      <trkpt lat="65.05658541" lon="25.46791581">
+        <ele>35.46</ele>
+        <time>T07:46:29.306Z</time>
+      </trkpt>
+      <trkpt lat="65.05658541" lon="25.46791583">
+        <ele>35.46</ele>
+        <time>T07:46:30.307Z</time>
+      </trkpt>
+      <trkpt lat="65.0565854" lon="25.46791588">
+        <ele>35.46</ele>
+        <time>T07:46:31.305Z</time>
+      </trkpt>
+      <trkpt lat="65.0565854" lon="25.46791592">
+        <ele>35.46</ele>
+        <time>T07:46:32.313Z</time>
+      </trkpt>
+      <trkpt lat="65.0565854" lon="25.46791594">
+        <ele>35.46</ele>
+        <time>T07:46:33.308Z</time>
+      </trkpt>
+      <trkpt lat="65.0565854" lon="25.46791596">
+        <ele>35.46</ele>
+        <time>T07:46:34.308Z</time>
+      </trkpt>
+      <trkpt lat="65.05658541" lon="25.46791599">
+        <ele>35.46</ele>
+        <time>T07:46:35.308Z</time>
+      </trkpt>
+      <trkpt lat="65.0565854" lon="25.46791604">
+        <ele>35.46</ele>
+        <time>T07:46:36.322Z</time>
+      </trkpt>
+      <trkpt lat="65.0565854" lon="25.46791608">
+        <ele>35.46</ele>
+        <time>T07:46:37.312Z</time>
+      </trkpt>
+      <trkpt lat="65.05658538" lon="25.46791613">
+        <ele>35.46</ele>
+        <time>T07:46:38.315Z</time>
+      </trkpt>
+      <trkpt lat="65.05658537" lon="25.46791615">
+        <ele>35.46</ele>
+        <time>T07:46:39.316Z</time>
+      </trkpt>
+      <trkpt lat="65.05658537" lon="25.46791614">
+        <ele>35.46</ele>
+        <time>T07:46:41.317Z</time>
+      </trkpt>
+      <trkpt lat="65.05658536" lon="25.46791617">
+        <ele>35.46</ele>
+        <time>T07:46:42.309Z</time>
+      </trkpt>
+      <trkpt lat="65.05658534" lon="25.46791619">
+        <ele>35.46</ele>
+        <time>T07:46:43.314Z</time>
+      </trkpt>
+      <trkpt lat="65.05658534" lon="25.46791622">
+        <ele>35.46</ele>
+        <time>T07:46:44.324Z</time>
+      </trkpt>
+      <trkpt lat="65.05658533" lon="25.46791624">
+        <ele>35.46</ele>
+        <time>T07:46:45.312Z</time>
+      </trkpt>
+      <trkpt lat="65.05658532" lon="25.46791626">
+        <ele>35.46</ele>
+        <time>T07:46:46.314Z</time>
+      </trkpt>
+      <trkpt lat="65.05658531" lon="25.4679163">
+        <ele>35.46</ele>
+        <time>T07:46:47.314Z</time>
+      </trkpt>
+      <trkpt lat="65.05658531" lon="25.46791634">
+        <ele>35.46</ele>
+        <time>T07:46:48.316Z</time>
+      </trkpt>
+      <trkpt lat="65.0565853" lon="25.46791636">
+        <ele>35.46</ele>
+        <time>T07:46:49.310Z</time>
+      </trkpt>
+      <trkpt lat="65.0565853" lon="25.46791637">
+        <ele>35.46</ele>
+        <time>T07:46:50.317Z</time>
+      </trkpt>
+      <trkpt lat="65.05658529" lon="25.46791638">
+        <ele>35.46</ele>
+        <time>T07:46:51.312Z</time>
+      </trkpt>
+      <trkpt lat="65.05658528" lon="25.46791641">
+        <ele>35.46</ele>
+        <time>T07:46:52.308Z</time>
+      </trkpt>
+      <trkpt lat="65.05658527" lon="25.46791644">
+        <ele>35.46</ele>
+        <time>T07:46:53.311Z</time>
+      </trkpt>
+      <trkpt lat="65.05658526" lon="25.46791645">
+        <ele>35.46</ele>
+        <time>T07:46:54.314Z</time>
+      </trkpt>
+      <trkpt lat="65.05658525" lon="25.46791647">
+        <ele>35.46</ele>
+        <time>T07:46:55.311Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,2 @@
+mcc,mnc,lac,cellid,lat,lon,signal,measured_at,rating,speed,direction,act,ta,psc,tac,pci,sid,nid,bid
+244,12,37811,10325300,65.057002,25.467797,-96,1720076699566,27.6,0.0,0.0,LTE,1,,37811,54,,,

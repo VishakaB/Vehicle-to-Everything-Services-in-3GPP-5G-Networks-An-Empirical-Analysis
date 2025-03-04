@@ -1,0 +1,537 @@
+a2e689c2-4865-4db5-82d5-5d744a1b859d
+Device ID;1
+Device Label;Nemo Handy
+Measurement start;2024 Aug 17 10:17
+Measurement end;2024 Aug 17 10:26
+Measurement duration;8min 51s
+Device Name;OnePlus/LE2123
+Voice call connection success rate;N.A.
+Video call connection success rate;N.A.
+FTP transfer success rate;N.A.
+SFTP transfer success rate;N.A.
+HTTP transfer success rate;N.A.
+Dropbox transfer success rate;N.A.
+Google Drive transfer success rate;N.A.
+Browsing transfer success rate;N.A.
+Ping success rate;N.A.
+TWAMP Ping success rate;N.A.
+Send SMS Success Rate;N.A.
+Send IMS SMS Success Rate;N.A.
+MMS success rate;N.A.
+Facebook transfer success rate;N.A.
+YouTube transfer success rate;N.A.
+Youtube PEVQ-S transfer success rate;N.A.
+Netflix transfer success rate;N.A.
+Twitter transfer success rate;N.A.
+Instagram transfer success rate;N.A.
+LinkedIn transfer success rate;N.A.
+POP3 transfer success rate;N.A.
+SMTP transfer success rate;N.A.
+mScore transfer success rate;N.A.
+WhatsApp Voice call connection success rate;N.A.
+WhatsApp Video call connection success rate;N.A.
+WhatsApp transfer success rate;N.A.
+Viber Voice call connection success rate;N.A.
+Viber transfer success rate;N.A.
+BiP Messenger Voice call connection success rate;N.A.
+BiP Messenger Video call connection success rate;N.A.
+BiP Messenger transfer success rate;N.A.
+LINE Voice call connection success rate;N.A.
+LINE Video call connection success rate;N.A.
+LINE transfer success rate;N.A.
+Zalo Voice call connection success rate;N.A.
+Zalo Video call connection success rate;N.A.
+Zalo transfer success rate;N.A.
+FAST.com transfer success rate;N.A.
+Voice call attempt;0
+Voice call connected;0
+Voice call attempt failed;0
+Voice call disconnected;0
+Voice call dropped;0
+Voice call drop rate;N.A.
+Voice call previous setup time;N.A.
+Voice call average setup time;N.A.
+CSFB call previous setup time;N.A.
+CSFB call average setup time;N.A.
+SRVCC attempts;0
+SRVCC failures;0
+SRVCC failure rate;N.A.
+SRVCC interruption time;N.A.
+Video call attempt;0
+Video call connected;0
+Video call attempt failed;0
+Video call disconnected;0
+Video call dropped;0
+Video call drop rate;N.A.
+Video call previous setup time;N.A.
+Video call average setup time;N.A.
+Video call downgrade to voice call;0
+Voice call upgrade to video call;0
+FTP connection attempt;0
+FTP connection success;0
+FTP connection failed;0
+FTP connection disconnected;0
+FTP connection dropped;0
+FTP connection success rate;N.A.
+FTP previous connection time;N.A.
+FTP average connection time;N.A.
+FTP transfer attempt;0
+FTP transfer success;0
+FTP transfer failed;0
+FTP transfer downlink tput average(all);N.A.
+FTP transfer uplink tput avg(all);N.A.
+SFTP connection attempt;0
+SFTP connection success;0
+SFTP connection failed;0
+SFTP connection disconnected;0
+SFTP connection dropped;0
+SFTP connection success rate;N.A.
+SFTP previous connection time;N.A.
+SFTP average connection time;N.A.
+SFTP transfer attempt;0
+SFTP transfer success;0
+SFTP transfer failed;0
+SFTP transfer downlink tput average(all);N.A.
+SFTP transfer uplink tput avg(all);N.A.
+HTTP connection attempt;0
+HTTP connection success;0
+HTTP connection failed;0
+HTTP connection disconnected;0
+HTTP connection dropped;0
+HTTP connection success rate;N.A.
+HTTP previous connection time;N.A.
+HTTP average connection time;N.A.
+HTTP transfer attempt;0
+HTTP transfer success;0
+HTTP transfer failed;0
+HTTP transfer downlink tput avg(all);N.A.
+HTTP transfer uplink tput avg(all);N.A.
+Dropbox connection attempt;0
+Dropbox connection success;0
+Dropbox connection failed;0
+Dropbox connection disconnected;0
+Dropbox connection dropped;0
+Dropbox connection success rate;N.A.
+Dropbox previous connection time;N.A.
+Dropbox transfer attempt;0
+Dropbox transfer success;0
+Dropbox transfer failed;0
+Dropbox transfer downlink tput avg(all);N.A.
+Dropbox transfer uplink tput avg(all);N.A.
+Google Drive connection attempt;0
+Google Drive connection success;0
+Google Drive connection failed;0
+Google Drive connection disconnected;0
+Google Drive connection dropped;0
+Google Drive connection success rate;N.A.
+Google Drive previous connection time;N.A.
+Google Drive transfer attempt;0
+Google Drive transfer success;0
+Google Drive transfer failed;0
+Google Drive transfer downlink tput avg(all);N.A.
+Google Drive transfer uplink tput avg(all);N.A.
+Browsing connection attempt;0
+Browsing connection success;0
+Browsing connection failed;0
+Browsing connection success rate;N.A.
+Browsing connection disconnected;0
+Browsing connection dropped;0
+Browsing transfer attempt;0
+Browsing transfer success;0
+Browsing transfer failed;0
+Browsing previous loading time;N.A.
+Browsing average loading time;N.A.
+Ping attempt;0
+Ping success;0
+Ping failed;0
+Ping RTT min;N.A.
+Ping RTT max;N.A.
+Ping RTT avg;N.A.
+TWAMP attempt;0
+TWAMP success;0
+TWAMP failed;0
+TWAMP success rate;N.A.
+TWAMP RTT min;N.A.
+TWAMP RTT max;N.A.
+TWAMP RTT avg;N.A.
+TWAMP jitter min;N.A.
+TWAMP jitter max;N.A.
+TWAMP jitter avg;N.A.
+UDP Echo attempt;0
+UDP Echo success;0
+UDP Echo failed;0
+UDP Echo Success rate;N.A.
+UDP Echo RTT min;N.A.
+UDP Echo RTT max;N.A.
+UDP Echo RTT avg;N.A.
+UDP Echo RTT Distribution;N.A.
+SMS send attempt;0
+SMS send success;0
+SMS send failed;0
+SMS send success rate;N.A.
+SMS message received;0
+SMS command received;0
+SMS broadcast received;0
+IMS SMS send attempt;0
+IMS SMS send success;0
+IMS SMS send failed;0
+IMS SMS send success rate;N.A.
+IMS SMS message received;0
+IMS SMS command received;0
+IMS SMS broadcast received;0
+MMS attempt;0
+MMS success;0
+MMS failed;0
+Iperf TCP connection attempt;0
+Iperf TCP connection success;0
+Iperf TCP connection failed;0
+Iperf TCP connection disconnected;0
+Iperf TCP connection dropped;0
+Iperf TCP connection success rate;N.A.
+Iperf TCP transfer attempt;0
+Iperf TCP transfer success;0
+Iperf TCP transfer failed;0
+Iperf TCP transfer success rate;N.A.
+Iperf UDP connection attempt;0
+Iperf UDP connection success;0
+Iperf UDP connection failed;0
+Iperf UDP connection disconnected;0
+Iperf UDP connection dropped;0
+Iperf UDP connection success rate;N.A.
+Iperf UDP transfer attempt;0
+Iperf UDP transfer success;0
+Iperf UDP transfer failed;0
+Iperf UDP transfer success rate;N.A.
+Iperf 2 connection attempt;0
+Iperf 2 connection success;0
+Iperf 2 connection failed;0
+Iperf 2 connection disconnected;0
+Iperf 2 connection dropped;0
+Iperf 2 connection success rate;N.A.
+Iperf 2 transfer attempt;0
+Iperf 2 transfer success;0
+Iperf 2 transfer failed;0
+Iperf 2 transfer success rate;N.A.
+Iperf 3 connection attempt;0
+Iperf 3 connection success;0
+Iperf 3 connection failed;0
+Iperf 3 connection disconnected;0
+Iperf 3 connection dropped;0
+Iperf 3 connection success rate;N.A.
+Iperf 3 transfer attempt;0
+Iperf 3 transfer success;0
+Iperf 3 transfer failed;0
+Iperf 3 transfer success rate;N.A.
+Facebook connection attempt;0
+Facebook connection success;0
+Facebook connection failed;0
+Facebook connection disconnected;0
+Facebook connection dropped;0
+Facebook connection success rate;N.A.
+Facebook transfer attempt;0
+Facebook transfer success;0
+Facebook transfer failed;0
+Facebook transfer downlink tput average(all);N.A.
+Facebook transfer uplink tput avg(all);N.A.
+YouTube transfer attempt;0
+YouTube transfer success;0
+YouTube transfer failed;0
+YouTube transfer time;N.A.
+YouTube setup success;0
+YouTube setup delay;N.A.
+YouTube setup success rate;N.A.
+YouTube completion success rate;N.A.
+YouTube initial buffering delay;N.A.
+YouTube video access time;N.A.
+YouTube buffering count;0
+Streaming transfer attempt;0
+Streaming transfer success;0
+Streaming transfer failed;0
+Streaming transfer success rate;N.A.
+Streaming transfer time;N.A.
+Streaming setup success;0
+Streaming setup delay;N.A.
+Streaming setup success rate;N.A.
+Streaming completion success rate;N.A.
+Streaming video access time;N.A.
+Streaming buffering count;0
+Streaming initial buffering delay;N.A.
+Netflix transfer attempt;0
+Netflix transfer success;0
+Netflix transfer failed;0
+Netflix transfer time;N.A.
+Netflix setup success;0
+Netflix setup delay;N.A.
+Netflix setup success rate;N.A.
+Netflix completion success rate;N.A.
+Netflix initial buffering delay;N.A.
+Netflix video access time;N.A.
+Netflix buffering count;0
+Twitter connection attempt;0
+Twitter connection success;0
+Twitter connection failed;0
+Twitter connection disconnected;0
+Twitter connection dropped;0
+Twitter connection success rate;N.A.
+Twitter transfer attempt;0
+Twitter transfer success;0
+Twitter transfer failed;0
+Twitter transfer downlink tput average(all);N.A.
+Twitter transfer uplink tput avg(all);N.A.
+Instagram connection attempt;0
+Instagram connection success;0
+Instagram connection failed;0
+Instagram connection disconnected;0
+Instagram connection dropped;0
+Instagram connection success rate;N.A.
+Instagram transfer attempt;0
+Instagram transfer success;0
+Instagram transfer failed;0
+Instagram transfer downlink tput average(all);N.A.
+Instagram transfer uplink tput avg(all);N.A.
+LinkedIn connection attempt;0
+LinkedIn connection success;0
+LinkedIn connection failed;0
+LinkedIn connection disconnected;0
+LinkedIn connection dropped;0
+LinkedIn connection success rate;N.A.
+LinkedIn transfer attempt;0
+LinkedIn transfer success;0
+LinkedIn transfer failed;0
+LinkedIn transfer downlink tput average(all);N.A.
+LinkedIn transfer uplink tput avg(all);N.A.
+POP3 connection attempt;0
+POP3 connection success;0
+POP3 connection failed;0
+POP3 connection success rate;N.A.
+POP3 transfer attempt;0
+POP3 transfer success;0
+POP3 transfer failed;0
+SMTP connection attempt;0
+SMTP connection success;0
+SMTP connection failed;0
+SMTP connection success rate;N.A.
+SMTP transfer attempt;0
+SMTP transfer success;0
+SMTP transfer failed;0
+mScore connection attempt;0
+mScore connection success;0
+mScore connection failed;0
+mScore connection disconnected;0
+mScore connection dropped;0
+mScore connection success rate;N.A.
+mScore previous connection time;N.A.
+mScore average connection time;N.A.
+mScore transfer attempt;0
+mScore transfer success;0
+mScore transfer failed;0
+mScore transfer downlink tput avg(all);N.A.
+mScore transfer uplink tput avg(all);N.A.
+WhatsApp Voice call attempt;0
+WhatsApp Voice call received;0
+WhatsApp Voice call connected;0
+WhatsApp Voice call attempt failed;0
+WhatsApp Voice call disconnected;0
+WhatsApp Voice call dropped;0
+WhatsApp Voice call drop rate;N.A.
+WhatsApp Voice call previous setup time;N.A.
+WhatsApp Voice call average setup time;N.A.
+WhatsApp Video call attempt;0
+WhatsApp Video call received;0
+WhatsApp Video call connected;0
+WhatsApp Video call attempt failed;0
+WhatsApp Video call disconnected;0
+WhatsApp Video call dropped;0
+WhatsApp Video call drop rate;N.A.
+WhatsApp Video call previous setup time;N.A.
+WhatsApp Video call average setup time;N.A.
+WhatsApp connection attempt;0
+WhatsApp connection success;0
+WhatsApp connection failed;0
+WhatsApp connection disconnected;0
+WhatsApp connection dropped;0
+WhatsApp connection success rate;N.A.
+WhatsApp transfer attempt;0
+WhatsApp transfer success;0
+WhatsApp transfer failed;0
+WhatsApp transfer uplink tput (average);N.A.
+Viber Voice call attempt;0
+Viber Voice call received;0
+Viber Voice call connected;0
+Viber Voice call attempt failed;0
+Viber Voice call disconnected;0
+Viber Voice call dropped;0
+Viber Voice call drop rate;N.A.
+Viber Voice call previous setup time;N.A.
+Viber Voice call average setup time;N.A.
+Viber connection attempt;0
+Viber connection success;0
+Viber connection failed;0
+Viber connection disconnected;0
+Viber connection dropped;0
+Viber connection success rate;N.A.
+Viber transfer attempt;0
+Viber transfer success;0
+Viber transfer failed;0
+Viber transfer uplink tput (average);N.A.
+BiP Messenger Voice call attempt;0
+BiP Messenger Voice call received;0
+BiP Messenger Voice call connected;0
+BiP Messenger Voice call attempt failed;0
+BiP Messenger Voice call disconnected;0
+BiP Messenger Voice call dropped;0
+BiP Messenger Voice call drop rate;N.A.
+BiP Messenger Voice call previous setup time;N.A.
+BiP Messenger Voice call average setup time;N.A.
+BiP Messenger Video call attempt;0
+BiP Messenger Video call received;0
+BiP Messenger Video call connected;0
+BiP Messenger Video call attempt failed;0
+BiP Messenger Video call disconnected;0
+BiP Messenger Video call dropped;0
+BiP Messenger Video call drop rate;N.A.
+BiP Messenger Video call previous setup time;N.A.
+BiP Messenger Video call average setup time;N.A.
+BiP Messenger connection attempt;0
+BiP Messenger connection success;0
+BiP Messenger connection failed;0
+BiP Messenger connection disconnected;0
+BiP Messenger connection dropped;0
+BiP Messenger connection success rate;N.A.
+BiP Messenger transfer attempt;0
+BiP Messenger transfer success;0
+BiP Messenger transfer failed;0
+BiP Messenger transfer uplink tput (average);N.A.
+LINE Voice call attempt;0
+LINE Voice call received;0
+LINE Voice call connected;0
+LINE Voice call attempt failed;0
+LINE Voice call disconnected;0
+LINE Voice call dropped;0
+LINE Voice call drop rate;N.A.
+LINE Voice call previous setup time;N.A.
+LINE Voice call average setup time;N.A.
+LINE Video call attempt;0
+LINE Video call received;0
+LINE Video call connected;0
+LINE Video call attempt failed;0
+LINE Video call disconnected;0
+LINE Video call dropped;0
+LINE Video call drop rate;N.A.
+LINE Video call previous setup time;N.A.
+LINE Video call average setup time;N.A.
+LINE connection attempt;0
+LINE connection success;0
+LINE connection failed;0
+LINE connection disconnected;0
+LINE connection dropped;0
+LINE connection success rate;N.A.
+LINE transfer attempt;0
+LINE transfer success;0
+LINE transfer failed;0
+LINE transfer uplink tput (average);N.A.
+Zalo Voice call attempt;0
+Zalo Voice call received;0
+Zalo Voice call connected;0
+Zalo Voice call attempt failed;0
+Zalo Voice call disconnected;0
+Zalo Voice call dropped;0
+Zalo Voice call drop rate;N.A.
+Zalo Voice call previous setup time;N.A.
+Zalo Voice call average setup time;N.A.
+Zalo Video call attempt;0
+Zalo Video call received;0
+Zalo Video call connected;0
+Zalo Video call attempt failed;0
+Zalo Video call disconnected;0
+Zalo Video call dropped;0
+Zalo Video call drop rate;N.A.
+Zalo Video call previous setup time;N.A.
+Zalo Video call average setup time;N.A.
+Zalo connection attempt;0
+Zalo connection success;0
+Zalo connection failed;0
+Zalo connection disconnected;0
+Zalo connection dropped;0
+Zalo connection success rate;N.A.
+Zalo transfer attempt;0
+Zalo transfer success;0
+Zalo transfer failed;0
+Zalo transfer uplink tput (average);N.A.
+FAST.com connection attempt;0
+FAST.com connection success;0
+FAST.com connection failed;0
+FAST.com connection disconnected;0
+FAST.com connection dropped;0
+FAST.com connection success rate;N.A.
+FAST.com transfer attempt;0
+FAST.com transfer success;0
+FAST.com transfer failed;0
+FAST.com transfer downlink tput (average);N.A.
+FAST.com transfer uplink tput (average);N.A.
+FAST.com RTT min;N.A.
+FAST.com RTT max;N.A.
+FAST.com RTT avg;N.A.
+FAST.com RTT loaded DL min;N.A.
+FAST.com RTT loaded DL max;N.A.
+FAST.com RTT loaded DL avg;N.A.
+Handover attempts;7
+Handover success;7
+Handover failures;0
+Handover success rate;100
+Handover success GSM/GSM;0
+Handover success rate GSM/GSM;N.A.
+Handover success UMTS/UMTS;0
+Handover success rate UMTS/UMTS;N.A.
+Handover success GSM/UMTS;0
+Handover success rate GSM/UMTS;N.A.
+Handover success UMTS/GMS;0
+Handover success rate UMTS/GMS;N.A.
+Handover success IMS;0
+Handover success rate IMS;N.A.
+SRVCC success;0
+SRVCC success rate;N.A.
+EC/N0 max;N.A.
+EC/N0 min;N.A.
+EC/N0 avg;N.A.
+RSCP max;N.A.
+RSCP min;N.A.
+RSCP avg;N.A.
+RSRP max;-77.800003
+RSRP min;-115.599998
+RSRP avg;-91.953148
+RSRQ max;-6.000000
+RSRQ min;-24.600000
+RSRQ avg;-11.384625
+NR RSRP max;N.A.
+NR RSRP min;N.A.
+NR RSRP avg;N.A.
+NR RSRQ max;N.A.
+NR RSRQ min;N.A.
+NR RSRQ avg;N.A.
+NR SINR max;N.A.
+NR SINR min;N.A.
+NR SINR avg;N.A.
+RX Level max;N.A.
+RX Level min;N.A.
+RX Level avg;N.A.
+RX Quality max;N.A.
+RX Quality min;N.A.
+RX Quality avg;N.A.
+C/I max;N.A.
+C/I min;N.A.
+C/I avg;N.A.
+App Tput UL max;N.A.
+App Tput UL avg;N.A.
+App Tput DL max;N.A.
+App Tput DL avg;N.A.
+SNR max;20.900000
+SNR min;-12.900000
+SNR avg;10.019320
+LTE RSRP max;-77.800003
+LTE RSRP min;-115.599998
+LTE RSRP avg;-91.953148
+LTE RSRQ max;-6.000000
+LTE RSRQ min;-24.600000
+LTE RSRQ avg;-11.384625
+WhatsApp transfer downlink tput (average);N.A.
